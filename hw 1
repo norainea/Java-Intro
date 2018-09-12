@@ -1,0 +1,41 @@
+package package1;
+
+public class population {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	{	@System.out.println("baseline world population 312032486.0 ")
+			
+			@System.out.println(" year 1: ")
+			
+			@System.out.println ("312032486.0 + 365.0 * 24.0 *60.0 *60.0 / 7.0")
+			@System.out.println ("+ 365.0 * 24.0 * 60.0 * 60.0 / 45.0")
+			@System.out.println ("- 365.0 * 24.0 * 60.0 * 60.0 / 13.0")
+			
+			@System.out.println(" year 2: " )
+			
+			@System.out.println (" 2.0 * 312032486.0 + 365.0 * 24.0 *60.0 *60.0 / 7.0")
+			@System.out.println ("+ 365.0 * 24.0 * 60.0 * 60.0 / 45.0")
+			@System.out.println ("- 365.0 * 24.0 * 60.0 * 60.0 / 13.0 " )
+			
+			@System.out.println (" year 3: ")
+			
+			@System.out.println (" 3.0 * 312032486.0 + 365.0 * 24.0 *60.0 *60.0 / 7.0")
+			@System.out.println ("+ 365.0 * 24.0 * 60.0 * 60.0 / 45.0")
+			@System.out.println ("- 365.0 * 24.0 * 60.0 * 60.0 / 13.0" )
+			
+			@System.out.println (" year 4: ")
+			
+			@System.out.println (" 4.0 * 312032486.0 + 365.0 * 24.0 *60.0 *60.0 / 7.0")
+			@System.out.println ("+ 365.0 * 24.0 * 60.0 * 60.0 / 45.0")
+			@System.out.println ("- 365.0 * 24.0 * 60.0 * 60.0 / 13.0" )
+			
+			@System.out.println (" year 5: ") 	
+			
+			@System.out.println (" 5.0 * 312032486.0 + 365.0 * 24.0 *60.0 *60.0 / 7.0" )
+			@System.out.println ("+ 365.0 * 24.0 * 60.0 * 60.0 / 45.0" )
+			@System.out.println ("- 365.0 * 24.0 * 60.0 * 60.0 / 13.0" )
+			
+			
